@@ -1,0 +1,6 @@
+{
+  "framework": "nuxt",
+  "install": "npm install",
+  "build": "npm run generate",
+  "dist": "dist"
+}
